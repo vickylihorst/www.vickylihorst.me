@@ -130,6 +130,7 @@ a {
     color: #B2284A; }
 
 strong, b {
+  font-weight: 900;
   color: #313f47; }
 
 em, i {
